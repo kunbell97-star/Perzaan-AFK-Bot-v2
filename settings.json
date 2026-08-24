@@ -22,7 +22,7 @@
       "password": "Perzuu"
     },
     "anti-afk": {
-      "enabled": enable
+      "enabled":true
   ,
       "sneak": false
     },
